@@ -1,0 +1,6 @@
+training_exp,epoch,training_accuracy,val_accuracy,training_loss,val_loss
+0,0,0.2570,0,2.3954,0
+1,0,0.3054,0,2.4879,0
+2,0,0.3285,0,2.4881,0
+3,0,0.3357,0,2.5091,0
+4,0,0.3527,0,2.5115,0
